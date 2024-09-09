@@ -1,5 +1,7 @@
 # “Pronóstico del Acumulado Mensual de Pólizas de Automóviles en Panamá, para enero de 2024”
 
+[VIDEO - Pronóstico de Pólizas de Automoviles] (https://utpac-my.sharepoint.com/:v:/g/personal/samuel_rodriguez12_utp_ac_pa/ES81eY3FvvBPrbD79TtLVVUBpeDEs0ou_9JZxQlMMqhjgg?e=uChcaT&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiIyYmJiNTYzYi02OWVkLTRmOGQtYjliMi03ZWEzNTAyODMwZTEifX0%3D).
+
 Estimar la cantidad de pólizas de automóviles en Panamá es crucial para el sector asegurador, ya que permite a las aseguradoras planificar la gestión de riesgos, establecer precios adecuados y garantizar la solvencia financiera. A medida que crece la cantidad de vehículos en territorio nacional, estas estimaciones ayudan a anticipar la demanda, adaptar productos y cumplir con regulaciones. Además, es esencial para el desarrollo de políticas públicas en seguridad vial y seguros obligatorios. Una proyección precisa fortalece la estabilidad del mercado y asegura una protección efectiva tanto para los conductores como para la industria aseguradora.
 
 Bajo este contexto, hemos recabado información, obtenida de la web de la Superintendencia de Seguros y Reaseguros de Panamá, sobre el acumulado mensual de pólizas de automóviles desde enero de 2021 hasta diciembre de 2023, con la intención de estimar el acumulado del periodo de enero de 2024.
