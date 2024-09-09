@@ -1,4 +1,4 @@
-# [![VIDEO] (https://utpac-my.sharepoint.com/:v:/g/personal/samuel_rodriguez12_utp_ac_pa/ES81eY3FvvBPrbD79TtLVVUBpeDEs0ou_9JZxQlMMqhjgg?e=xwnoiq&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiIyYmJiNTYzYi02OWVkLTRmOGQtYjliMi03ZWEzNTAyODMwZTEifX0%3D)
+<iframe src="https://utpac-my.sharepoint.com/personal/samuel_rodriguez12_utp_ac_pa/_layouts/15/embed.aspx?UniqueId=8d79352f-bec5-4ff0-adb0-fbf53b4b5555&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="MODELOS PREDICTIVOS FINAL - SAMUEL RODRIGUEZ.mp4"></iframe>
 
 # “Pronóstico del Acumulado Mensual de Pólizas de Automóviles en Panamá, para enero de 2024”
 
