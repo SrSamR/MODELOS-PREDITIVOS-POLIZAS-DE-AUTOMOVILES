@@ -21,7 +21,8 @@ El acumulado mensual de pólizas de automóviles en Panamá entre 2021 y 2023 pr
 
 ![image](https://github.com/user-attachments/assets/0c8ae0f6-a3d0-4e0a-89f7-cab190280079)
 
-Resultados
+## Resultados
+
 •	El pronóstico obtenido con la regresión lineal fue de 89186 pólizas para el periodo de enero de 2024.
 •	Presenta un r2 muy débil, de 0.12, lo que indica que la variabilidad del acumulado de pólizas mensuales solo está explicada un 12% por la variabilidad o paso del tiempo (meses) y el otro 88% por la variación de otras variables.
 •	Presenta un MAD de 6746
@@ -36,7 +37,8 @@ Resultados
 
 ![image](https://github.com/user-attachments/assets/9db6b182-d04e-4515-87d5-fe8fd43a9fff)
 
-Resultados
+## Resultados
+
 •	El pronóstico obtenido con la regresión polinómica de 3er grado fue de 93399 pólizas para el periodo de enero de 2024.
 •	Presenta un r2 muy débil, de 0.15, lo que indica que la variabilidad del acumulado de pólizas mensuales solo está explicada un 15% por la variabilidad o paso del tiempo (meses) y el otro 85% por la variación de otras variables.
 •	Presenta un MAD de 6704
@@ -51,7 +53,8 @@ Resultados
 
 ![image](https://github.com/user-attachments/assets/42565eb1-2eda-4f1a-aef4-68f74a5dd12c)
 
-Resultados
+## Resultados
+
 •	El pronóstico obtenido con el modelo de promedios móviles fue de 91422 pólizas para el periodo de enero de 2024.
 •	Presenta un MAD de 8337
 •	Presenta un MAPE de 9.7997
@@ -64,7 +67,8 @@ Resultados
 
 ![image](https://github.com/user-attachments/assets/3deb91c8-2362-405e-b249-e5cc1b77f7b9)
 
-Resultados
+## Resultados
+
 •	El pronóstico obtenido con el modelo de suavizamiento exponencial fue de 85150 pólizas para el periodo de enero de 2024, con un Alpha de 0.057.
 •	Presenta un MAD de 7269
 •	Presenta un MAPE de 8.6261
@@ -78,7 +82,7 @@ Resultados
 
 ![image](https://github.com/user-attachments/assets/a1cc011c-b4a4-4eb9-8af2-9466970f5688)
 
-Resultados
+## Resultados
 •	El pronóstico obtenido con el modelo de Holt fue de 89186 pólizas para el periodo de enero de 2024, con un Alpha de 0.05 y una beta de 0.354
 •	Presenta un MAD de 7,156
 •	Presenta un MAPE de 8.5655
@@ -92,7 +96,7 @@ Resultados
 
 ![image](https://github.com/user-attachments/assets/e6c76b0c-9ffe-489e-a441-47fb6ec2d518)
 
-Resultados
+## Resultados
 •	El pronóstico obtenido con el modelo de ARIMA 3,1,3 fue de 100,003 pólizas para el periodo de enero de 2024, con 𝜙1 de 0.10, 𝜙2 de 0.13, 𝜙3 de 0.37 y 𝜃1 de 0.10, 𝜃2 de 0.24, 𝜃3 de 0.14.
 •	Presenta un MAD de 8,428
 •	Presenta un MAPE de 9.6499
